@@ -1,4 +1,4 @@
-# brutesub
+# BruteSub
 Brute force DNS (Subdomain)
 
 
